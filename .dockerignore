@@ -1,0 +1,35 @@
+# VCS
+.git
+**/.git
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+venv/
+.env
+.env.*
+*.egg-info/
+*.dist-info/
+
+# Django
+staticfiles/
+media/
+
+# Node / Vite
+**/node_modules/
+**/dist/
+**/.turbo/
+**/.next/
+**/build/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Replit / misc
+**/.replit
+**/.local/
